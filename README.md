@@ -14,6 +14,16 @@ from https://github.com/qubvel/segmentation_models.pytorch were explored.
 ## Data Augmentation ##
 - Affine transformation was applied (50 % percent probability of being applied) to the image batch during training for better generalization of the model. We used degrees = (-90,90), translate = (0.1,0.1), scale = (0.8,1.2), sheer = None)
 
-## Results ##
+## Example of Result ##
+
+![Ori](https://github.com/Sopitta/Rock-fracture-image-segmentation-with-CNN/blob/master/Image/60_ori.png)             This is an original image
+
+![Mask](https://github.com/Sopitta/Rock-fracture-image-segmentation-with-CNN/blob/master/Image/60.png)             This is a mask image
+
+![Predict](https://github.com/Sopitta/Rock-fracture-image-segmentation-with-CNN/blob/master/Image/60_bb_1.PNG)          This is interprted fractures
+
+
+
+
 
 
