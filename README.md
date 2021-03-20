@@ -16,11 +16,11 @@ from https://github.com/qubvel/segmentation_models.pytorch were explored.
 
 ## Example of Result ##
 
-![Ori](https://github.com/Sopitta/Rock-fracture-image-segmentation-with-CNN/blob/master/Image/60_ori.png)             This is an original image
+![Ori](https://github.com/Sopitta/Rock-fracture-image-segmentation-with-CNN/blob/master/Image/60_ori.png)       This is an original image 
 
 ![Mask](https://github.com/Sopitta/Rock-fracture-image-segmentation-with-CNN/blob/master/Image/60.png)             This is a mask image
 
-![Predict](https://github.com/Sopitta/Rock-fracture-image-segmentation-with-CNN/blob/master/Image/60_bb_1.PNG)          This is interprted fractures
+![Predict](https://github.com/Sopitta/Rock-fracture-image-segmentation-with-CNN/blob/master/Image/60_bb_1.PNG)  This is interprted fractures (Accuracy 0.769/1 using dice coefficient)
 
 
 
